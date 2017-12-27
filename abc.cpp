@@ -8,5 +8,4 @@ int main(){
 	for(j=10;j>=0;j--){
 		cout<<j<<endl;
 	}
-	int k;
 }
